@@ -1,0 +1,46 @@
+c:\users\igor\documents\visual studio 2015\Projects\TrabalhoPOO2v1\TrabalhoPOO2v1\bin\Debug\TrabalhoPOO2v1.exe.config
+C:\Users\IGOR\documents\visual studio 2015\Projects\TrabalhoPOO2v1\TrabalhoPOO2v1\bin\Debug\TrabalhoPOO2v1.exe
+C:\Users\IGOR\documents\visual studio 2015\Projects\TrabalhoPOO2v1\TrabalhoPOO2v1\bin\Debug\TrabalhoPOO2v1.pdb
+C:\Users\IGOR\documents\visual studio 2015\Projects\TrabalhoPOO2v1\TrabalhoPOO2v1\obj\Debug\TrabalhoPOO2v1.csprojResolveAssemblyReference.cache
+C:\Users\IGOR\documents\visual studio 2015\Projects\TrabalhoPOO2v1\TrabalhoPOO2v1\obj\Debug\TrabalhoPOO2v1.batalha.resources
+C:\Users\IGOR\documents\visual studio 2015\Projects\TrabalhoPOO2v1\TrabalhoPOO2v1\obj\Debug\TrabalhoPOO2v1.guerreiro.resources
+C:\Users\IGOR\documents\visual studio 2015\Projects\TrabalhoPOO2v1\TrabalhoPOO2v1\obj\Debug\TrabalhoPOO2v1.nacao.resources
+C:\Users\IGOR\documents\visual studio 2015\Projects\TrabalhoPOO2v1\TrabalhoPOO2v1\obj\Debug\TrabalhoPOO2v1.principal.resources
+C:\Users\IGOR\documents\visual studio 2015\Projects\TrabalhoPOO2v1\TrabalhoPOO2v1\obj\Debug\TrabalhoPOO2v1.Properties.Resources.resources
+C:\Users\IGOR\documents\visual studio 2015\Projects\TrabalhoPOO2v1\TrabalhoPOO2v1\obj\Debug\TrabalhoPOO2v1.csproj.GenerateResource.Cache
+C:\Users\IGOR\documents\visual studio 2015\Projects\TrabalhoPOO2v1\TrabalhoPOO2v1\obj\Debug\TrabalhoPOO2v1.exe
+C:\Users\IGOR\documents\visual studio 2015\Projects\TrabalhoPOO2v1\TrabalhoPOO2v1\obj\Debug\TrabalhoPOO2v1.pdb
+C:\Users\Usuário\Downloads\TrabalhoPOO2v1\TrabalhoPOO2v1\TrabalhoPOO2v1\bin\Debug\TrabalhoPOO2v1.exe.config
+C:\Users\Usuário\Downloads\TrabalhoPOO2v1\TrabalhoPOO2v1\TrabalhoPOO2v1\obj\Debug\TrabalhoPOO2v1.exe
+C:\Users\Usuário\Downloads\TrabalhoPOO2v1\TrabalhoPOO2v1\TrabalhoPOO2v1\obj\Debug\TrabalhoPOO2v1.pdb
+C:\Users\Usuário\Downloads\TrabalhoPOO2v1\TrabalhoPOO2v1\TrabalhoPOO2v1\bin\Debug\TrabalhoPOO2v1.exe
+C:\Users\Usuário\Downloads\TrabalhoPOO2v1\TrabalhoPOO2v1\TrabalhoPOO2v1\bin\Debug\TrabalhoPOO2v1.pdb
+C:\Users\Usuário\Downloads\TrabalhoPOO2v1\TrabalhoPOO2v1\TrabalhoPOO2v1\obj\Debug\TrabalhoPOO2v1.csprojResolveAssemblyReference.cache
+C:\Users\Usuário\Downloads\TrabalhoPOO2v1\TrabalhoPOO2v1\TrabalhoPOO2v1\obj\Debug\TrabalhoPOO2v1.batalha.resources
+C:\Users\Usuário\Downloads\TrabalhoPOO2v1\TrabalhoPOO2v1\TrabalhoPOO2v1\obj\Debug\TrabalhoPOO2v1.guerreiro.resources
+C:\Users\Usuário\Downloads\TrabalhoPOO2v1\TrabalhoPOO2v1\TrabalhoPOO2v1\obj\Debug\TrabalhoPOO2v1.nacao.resources
+C:\Users\Usuário\Downloads\TrabalhoPOO2v1\TrabalhoPOO2v1\TrabalhoPOO2v1\obj\Debug\TrabalhoPOO2v1.principal.resources
+C:\Users\Usuário\Downloads\TrabalhoPOO2v1\TrabalhoPOO2v1\TrabalhoPOO2v1\obj\Debug\TrabalhoPOO2v1.Properties.Resources.resources
+C:\Users\Usuário\Downloads\TrabalhoPOO2v1\TrabalhoPOO2v1\TrabalhoPOO2v1\obj\Debug\TrabalhoPOO2v1.csproj.GenerateResource.Cache
+C:\Users\Usuário\Downloads\TrabalhoPOO2v1\TrabalhoPOO2v1\TrabalhoPOO2v1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Usuário\Downloads\TrabalhoPOO2v1\TrabalhoPOO2v1\TrabalhoPOO2v1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Usuário\Downloads\TrabalhoPOO2v1\TrabalhoPOO2v1\TrabalhoPOO2v1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Usuário\Downloads\TrabalhoPOO2v1\TrabalhoPOO2v1\TrabalhoPOO2v1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Usuário\Downloads\TrabalhoPOO2v1\TrabalhoPOO2v1\TrabalhoPOO2v1\obj\Debug\TrabalhoPOO2v1.csproj.ResolveComReference.cache
+C:\Users\Usuário\Downloads\Trabalho_Poo2_Parte1_nome1_Igor_Santos_nome2_Matheus_Martins (1)\TrabalhoPOO2v1\TrabalhoPOO2v1\TrabalhoPOO2v1\bin\Debug\TrabalhoPOO2v1.exe.config
+C:\Users\Usuário\Downloads\Trabalho_Poo2_Parte1_nome1_Igor_Santos_nome2_Matheus_Martins (1)\TrabalhoPOO2v1\TrabalhoPOO2v1\TrabalhoPOO2v1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Usuário\Downloads\Trabalho_Poo2_Parte1_nome1_Igor_Santos_nome2_Matheus_Martins (1)\TrabalhoPOO2v1\TrabalhoPOO2v1\TrabalhoPOO2v1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Usuário\Downloads\Trabalho_Poo2_Parte1_nome1_Igor_Santos_nome2_Matheus_Martins (1)\TrabalhoPOO2v1\TrabalhoPOO2v1\TrabalhoPOO2v1\obj\Debug\TrabalhoPOO2v1.csproj.ResolveComReference.cache
+C:\Users\Usuário\Downloads\Trabalho_Poo2_Parte1_nome1_Igor_Santos_nome2_Matheus_Martins (1)\TrabalhoPOO2v1\TrabalhoPOO2v1\TrabalhoPOO2v1\obj\Debug\TrabalhoPOO2v1.exe
+C:\Users\Usuário\Downloads\Trabalho_Poo2_Parte1_nome1_Igor_Santos_nome2_Matheus_Martins (1)\TrabalhoPOO2v1\TrabalhoPOO2v1\TrabalhoPOO2v1\obj\Debug\TrabalhoPOO2v1.pdb
+C:\Users\Usuário\Downloads\Trabalho_Poo2_Parte1_nome1_Igor_Santos_nome2_Matheus_Martins (1)\TrabalhoPOO2v1\TrabalhoPOO2v1\TrabalhoPOO2v1\bin\Debug\TrabalhoPOO2v1.exe
+C:\Users\Usuário\Downloads\Trabalho_Poo2_Parte1_nome1_Igor_Santos_nome2_Matheus_Martins (1)\TrabalhoPOO2v1\TrabalhoPOO2v1\TrabalhoPOO2v1\bin\Debug\TrabalhoPOO2v1.pdb
+C:\Users\Usuário\Downloads\Trabalho_Poo2_Parte1_nome1_Igor_Santos_nome2_Matheus_Martins (1)\TrabalhoPOO2v1\TrabalhoPOO2v1\TrabalhoPOO2v1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Usuário\Downloads\Trabalho_Poo2_Parte1_nome1_Igor_Santos_nome2_Matheus_Martins (1)\TrabalhoPOO2v1\TrabalhoPOO2v1\TrabalhoPOO2v1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Usuário\Downloads\Trabalho_Poo2_Parte1_nome1_Igor_Santos_nome2_Matheus_Martins (1)\TrabalhoPOO2v1\TrabalhoPOO2v1\TrabalhoPOO2v1\obj\Debug\TrabalhoPOO2v1.csprojResolveAssemblyReference.cache
+C:\Users\Usuário\Downloads\Trabalho_Poo2_Parte1_nome1_Igor_Santos_nome2_Matheus_Martins (1)\TrabalhoPOO2v1\TrabalhoPOO2v1\TrabalhoPOO2v1\obj\Debug\TrabalhoPOO2v1.batalha.resources
+C:\Users\Usuário\Downloads\Trabalho_Poo2_Parte1_nome1_Igor_Santos_nome2_Matheus_Martins (1)\TrabalhoPOO2v1\TrabalhoPOO2v1\TrabalhoPOO2v1\obj\Debug\TrabalhoPOO2v1.guerreiro.resources
+C:\Users\Usuário\Downloads\Trabalho_Poo2_Parte1_nome1_Igor_Santos_nome2_Matheus_Martins (1)\TrabalhoPOO2v1\TrabalhoPOO2v1\TrabalhoPOO2v1\obj\Debug\TrabalhoPOO2v1.nacao.resources
+C:\Users\Usuário\Downloads\Trabalho_Poo2_Parte1_nome1_Igor_Santos_nome2_Matheus_Martins (1)\TrabalhoPOO2v1\TrabalhoPOO2v1\TrabalhoPOO2v1\obj\Debug\TrabalhoPOO2v1.principal.resources
+C:\Users\Usuário\Downloads\Trabalho_Poo2_Parte1_nome1_Igor_Santos_nome2_Matheus_Martins (1)\TrabalhoPOO2v1\TrabalhoPOO2v1\TrabalhoPOO2v1\obj\Debug\TrabalhoPOO2v1.Properties.Resources.resources
+C:\Users\Usuário\Downloads\Trabalho_Poo2_Parte1_nome1_Igor_Santos_nome2_Matheus_Martins (1)\TrabalhoPOO2v1\TrabalhoPOO2v1\TrabalhoPOO2v1\obj\Debug\TrabalhoPOO2v1.csproj.GenerateResource.Cache
